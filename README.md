@@ -1,4 +1,4 @@
-<h1>Dying Laborer</h1>
+<h1>Merchant</h1>
 <img src="Readme_Resources/Demo.png" alt="Demo.png">
 
 <p><br>This project example shows you how the UDSH plugin works. This demo covers the MKM asset.</p>
